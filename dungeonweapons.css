@@ -1,4 +1,4 @@
-.weapons {
+.f1 {
 
     top: 120px;
     left: 20px;
@@ -9,9 +9,93 @@
     transition-timing-function: ease;
 }
 
-.weapons:hover {
+.f1:hover {
+transform: scale(1.1);
+}
+
+.f2 {
+
+    top: 120px;
+    left: 190px;
+    position: absolute;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+.f2:hover {
     transform: scale(1.1);
     }
+.f3 {
+
+    top: 120px;
+    left: 360px;
+    position: absolute;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+.f3:hover {
+    transform: scale(1.1);
+    }
+
+.f4 {
+
+    top: 120px;
+    left: 530px;
+    position: absolute;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+.f4:hover {
+    transform: scale(1.1);
+    }
+.f5 {
+
+    top: 120px;
+    left: 700px;
+    position: absolute;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+.f5:hover {
+    transform: scale(1.1);
+    }
+
+.f6 {
+
+    top: 120px;
+    left: 870px;
+    position: absolute;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+.f6:hover {
+    transform: scale(1.1);
+    }
+.f7 {
+
+    top: 120px;
+    left: 1040px;
+    position: absolute;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+.f7:hover {
+    transform: scale(1.1);
+    }
+
+
+
 
 
 
@@ -157,5 +241,3 @@ width:900px;
 .wikilogo{
 margin-right;:1000px
 
-
-}

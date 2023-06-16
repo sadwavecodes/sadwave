@@ -3,15 +3,31 @@
     top: 120px;
     left: 20px;
     position: absolute;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
 }
+
+.questweapons:hover {
+    transform: scale(1.1);
+    }
 
 .dunweapons {
 
     top: 120px;
     left: 190px;
     position: absolute;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
 }
 
+
+.dunweapons:hover {
+    transform: scale(1.1);
+    }
 
 
 
