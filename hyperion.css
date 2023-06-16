@@ -4,14 +4,16 @@ font-family: Minecraftia;
 font-size: 50px;
 margin-left: 1100px;
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
 
-
-
-
-
-
-
-
+.hyperionwikitext {
+font-family: Minecraftia;
+color: white;
+width: 975px;
+height: 250px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+margin-left: 850px;
+background-color: rgba(0, 0, 0, 0.35);;
 }
 
 
